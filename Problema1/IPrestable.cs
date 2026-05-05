@@ -1,4 +1,5 @@
 namespace Problema1;
+
 public interface IPrestable
 {
     bool EstaDisponible { get; }

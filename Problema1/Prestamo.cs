@@ -1,3 +1,4 @@
+namespace Problema1;
 public record Prestamo(
     string IdPrestamo,
     string IdMaterial,
